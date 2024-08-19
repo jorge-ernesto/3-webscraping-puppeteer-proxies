@@ -1,0 +1,12 @@
+---- Notas ----
+
+WebScraping de cualquier Sitio con Nodejs, Puppeteer y Proxies
+https://youtu.be/_E5auor1j2A
+
+Codigo del Ejemplo
+https://github.com/FaztWeb/node-webscraping-proxy
+
+----
+
+Web Scraping con Proxies, la forma mas segura de hacer Scraping #desarrolladorweb #webscraping
+https://www.youtube.com/watch?v=isRZqD3eb_s
